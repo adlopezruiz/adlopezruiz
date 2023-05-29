@@ -72,14 +72,12 @@
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<div>
-  <a href="https://github.com/adlopezruiz">
-    <img width=450 height=170 align="center" alt="adlopezruiz" src="https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/adlopezruiz">
-    <img align="center" alt="adlopezruiz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dark&show_icons=true" alt="adlopezruiz" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
 <br/>
 
