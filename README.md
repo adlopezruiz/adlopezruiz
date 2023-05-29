@@ -71,26 +71,14 @@
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/adlopezruiz/github-readme-stats"><img alt="Adrian Lopez Github Stats" src="https://github-readme-stats.vercel.app/api?username=adlopezruiz&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adlopezruiz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adlopezruiz" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/adlopezruiz"><img alt="Adrian Lopez Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adlopezruiz&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+<div>
+  <a href="https://github.com/adlopezruiz">
+    <img width=450 height=170 align="center" alt="adlopezruiz" src="https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/adlopezruiz">
+    <img align="center" alt="adlopezruiz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
 
 <br/>
 
