@@ -34,6 +34,7 @@
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=java)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
