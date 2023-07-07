@@ -56,13 +56,13 @@
 
 
 ![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
+![adlopezruiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adlopezruiz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-![adlopezruiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ----
