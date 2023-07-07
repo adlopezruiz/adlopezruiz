@@ -54,9 +54,9 @@
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<p align="center">
- ![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-</p>
+
+![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
 
 <br/>
 
