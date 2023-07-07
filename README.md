@@ -55,7 +55,7 @@
 
 
 
-![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br>
 ![adlopezruiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <br/>
