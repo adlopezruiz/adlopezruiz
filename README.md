@@ -55,10 +55,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dark&show_icons=true" alt="adlopezruiz" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlopezruiz&layout=compact&theme=dark" alt="top-langs" />
+ ![adlopezruiz's Stats](https://github-readme-stats.vercel.app/api?username=adlopezruiz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 <br/>
